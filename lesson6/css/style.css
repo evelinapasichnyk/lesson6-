@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+.body{
+    font-family: "Lato", sans-serif;
+    font-style: normal;
+    color: black;
+}
+.header{
+    font-weight: 900;
+    font-size:46px;
+    width: 815px;
+    height: 210px;
+    margin: 154px 760px 40px 345px;
+    line-height: 59.8px;
+}
+
+.image{
+    padding: 0%;
+    width: 810px;
+    height: 360px;
+    margin-left: 345px;
+    margin-top: 0%;
+    border-radius: 4px;
+    display: block;
+}
+.text{
+    font-size: 20px;
+    font-weight: 700;
+    width: 810px;
+    height: 90px;
+    margin-left: 345px;
+    margin-right: 765px;
+    margin-top: 57px;
+    line-height: 30px;
+}
+.text-one{
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 27px;
+    margin-left: 345px;
+    margin-right: 765px;
+    width: 810px;
+    height: 182px;
+    line-height: 25.6px;
+}
+.paragraph{
+    padding-bottom: 23px;
+}
+.text-big{
+    width: 810px;
+    height: 120px;
+    margin-left: 345px;
+    margin-right: 765px;
+    margin-top: 46px;
+    font-weight: 700;
+    padding-left: 58px;
+    padding-top: 0%;
+    box-sizing: border-box;
+    font-size: 20px;
+    line-height: 30px;
+}
+.text-main{
+    margin-top: 50px;
+    font-size: 16px;
+    font-weight: 400;
+    margin-left: 345px;
+    margin-right: 765px;
+    width: 810px;
+    height: 52px;
+    padding: 0%;
+    line-height: 25.6px;
+}
+.text-list{
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 24px;
+    margin-left: 345px;
+    margin-right: 975px;
+    width: 600px;
+    height: 116px;
+    margin-bottom: 24px;
+    line-height: 25.6px;
+}
+.li{
+    padding-bottom: 4px;
+}
+.last-text{
+    font-size: 16px;
+    line-height: 25.6px;
+    font-weight: 400;
+    width: 810px;
+    height: 104px;
+    margin-left: 345px;
+    margin-right: 765px;
+    text-shadow: 1px 0px 4px rgba(0, 0, 0, 0.25);   
+    margin-bottom: 70px;
+}
+
+.text-one,
+.text-main,
+.text-list{
+    color: gray;
+}
+
+.homework{
+    margin-left: 0;
+    border-radius: 100%;
+    padding: 3%;
+    background-color: aquamarine;
+    width: 300px;
+    height: 300px;
+}
+.home-work{
+    margin-top: 180px;
+    overflow: hidden;
+    opacity: 0.6;
+    border-radius: 100%;
+    padding: 3%;
+    background-color: aquamarine;
+    width: 300px;
+    height: 300px;  
+}
+.lastwork{
+    margin-top: 5px;
+    overflow: visible;
+    opacity: 0.8;
+    border-radius: 100%;
+    padding: 3%;
+    background-color: aquamarine;
+    width: 300px;
+    height: 300px; 
+    box-shadow: 10px 10px darkcyan;
+    border: 3px dotted blue;
+}
+.footer{
+    color: darkolivegreen;
+    font-size: 70px;
+}
